@@ -52,6 +52,9 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  assets:
+    - resimler/pizza.png
+    
   fonts:
     - family: Roboto
       fonts:
